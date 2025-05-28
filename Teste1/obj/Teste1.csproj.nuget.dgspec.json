@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\matheus.bezerra\\Desktop\\c#-projeto-musical\\Teste1\\Teste1.csproj": {}
+    "C:\\Users\\ricardo.mendonca\\Desktop\\Estudos-csharp\\Teste1\\Teste1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\matheus.bezerra\\Desktop\\c#-projeto-musical\\Teste1\\Teste1.csproj": {
+    "C:\\Users\\ricardo.mendonca\\Desktop\\Estudos-csharp\\Teste1\\Teste1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\matheus.bezerra\\Desktop\\c#-projeto-musical\\Teste1\\Teste1.csproj",
+        "projectUniqueName": "C:\\Users\\ricardo.mendonca\\Desktop\\Estudos-csharp\\Teste1\\Teste1.csproj",
         "projectName": "Teste1",
-        "projectPath": "C:\\Users\\matheus.bezerra\\Desktop\\c#-projeto-musical\\Teste1\\Teste1.csproj",
-        "packagesPath": "C:\\Users\\matheus.bezerra\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\matheus.bezerra\\Desktop\\c#-projeto-musical\\Teste1\\obj\\",
+        "projectPath": "C:\\Users\\ricardo.mendonca\\Desktop\\Estudos-csharp\\Teste1\\Teste1.csproj",
+        "packagesPath": "C:\\Users\\ricardo.mendonca\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ricardo.mendonca\\Desktop\\Estudos-csharp\\Teste1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\matheus.bezerra\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\ricardo.mendonca\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
