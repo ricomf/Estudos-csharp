@@ -1,0 +1,14 @@
+C:\Users\matheus.bezerra\Desktop\c#-projeto-musical\Teste1\bin\Debug\net9.0\Teste1.exe
+C:\Users\matheus.bezerra\Desktop\c#-projeto-musical\Teste1\bin\Debug\net9.0\Teste1.deps.json
+C:\Users\matheus.bezerra\Desktop\c#-projeto-musical\Teste1\bin\Debug\net9.0\Teste1.runtimeconfig.json
+C:\Users\matheus.bezerra\Desktop\c#-projeto-musical\Teste1\bin\Debug\net9.0\Teste1.dll
+C:\Users\matheus.bezerra\Desktop\c#-projeto-musical\Teste1\bin\Debug\net9.0\Teste1.pdb
+C:\Users\matheus.bezerra\Desktop\c#-projeto-musical\Teste1\obj\Debug\net9.0\Teste1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matheus.bezerra\Desktop\c#-projeto-musical\Teste1\obj\Debug\net9.0\Teste1.AssemblyInfoInputs.cache
+C:\Users\matheus.bezerra\Desktop\c#-projeto-musical\Teste1\obj\Debug\net9.0\Teste1.AssemblyInfo.cs
+C:\Users\matheus.bezerra\Desktop\c#-projeto-musical\Teste1\obj\Debug\net9.0\Teste1.csproj.CoreCompileInputs.cache
+C:\Users\matheus.bezerra\Desktop\c#-projeto-musical\Teste1\obj\Debug\net9.0\Teste1.dll
+C:\Users\matheus.bezerra\Desktop\c#-projeto-musical\Teste1\obj\Debug\net9.0\refint\Teste1.dll
+C:\Users\matheus.bezerra\Desktop\c#-projeto-musical\Teste1\obj\Debug\net9.0\Teste1.pdb
+C:\Users\matheus.bezerra\Desktop\c#-projeto-musical\Teste1\obj\Debug\net9.0\Teste1.genruntimeconfig.cache
+C:\Users\matheus.bezerra\Desktop\c#-projeto-musical\Teste1\obj\Debug\net9.0\ref\Teste1.dll
